@@ -18,7 +18,7 @@ resources:
    ### Network name to deploy BIG-IP
    subnet1: sharedvpc
    ### Subnet of Network BIG-IP should use
-   licenseKey1: 'UJMYO-GPJOC-JPITR-VALFX-XUKCOWU'
+   licenseKey1: ''
    ### BIG-IP license key
    imageName: f5-byol-bigip-13-1-0-2-0-6-best
    ### BIG-IP image, valid choices include:
